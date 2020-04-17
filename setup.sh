@@ -9,7 +9,7 @@ echo_message() {
 }
 
 echo_message "Downloading linux sdk from official site..."
-    wget http://mstn.info/downloads/mstn-m100-linux-x86_64.tar.gz
+    wget http://mstn.info/assets/downloads/mstn-m100-linux-x86_64.tar.gz
 echo_done
 
 echo_message "Unpacking archive..."
